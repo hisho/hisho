@@ -3,7 +3,7 @@
 ### Language
 <p>
   <img src="https://img.shields.io/badge/-TypeScript-555.svg?logo=typescript&style=flat-square">
-  <img src="https://img.shields.io/badge/-Graphql-555.svg?logo=graphql&style=flat-square">
+  <img src="https://img.shields.io/badge/-GraphQL-555.svg?logo=graphql&style=flat-square">
   <img src="https://img.shields.io/badge/-JavaScript-555.svg?logo=javascript&style=flat-square">
 </p>
 
