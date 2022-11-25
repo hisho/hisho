@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/-Chakra Ui-555.svg?logo=chakraui&style=flat-square">
   <img src="https://img.shields.io/badge/-Tailwind CSS-555.svg?logo=tailwindcss&style=flat-square">
   <img src="https://img.shields.io/badge/-Apollo GraphQL-555.svg?logo=apollographql&style=flat-square">
+  <img src="https://img.shields.io/badge/-NestJS-555.svg?logo=nestjs&style=flat-square">
 </p>
 
 
